@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zippy-chain-345512",
+  "private_key_id": "1414d301d9c5e5d75743061dcdf10538d3a7a7c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6BhBIoeg+QAoC\neYY3yEns0JBUCEw+DOXy5vxkktsXVD35UlcKduCtOKkWHArOEjiqzjx2Tt74j5RC\n0lQu9Ufndg0gScUSQkdFPbhm63mG7duEQimJVgI2Bl6/T0vmMwaGyzKLRAxIzwfS\nAKujcJdXkjPtXXhcf659hQK0xinm4qd/t7Cn6MWrC20OFR5Aq5akz+Xvsl/cDLM9\nby6xF5qGtMhrccq0Bf9Lcqgzj6kSzYf6N9VDyeWWlcm9cjLfW8cuCFCv7JbWxL6S\nzciHeC5yjrkGaeJVBp6HmX4lIHSjcI18jwzCVdB4Edy1ejIMrkw33ttL9ARu/CY/\nsic2+L/5AgMBAAECggEADFtxwnlq5ZO4doCfH16BNqeGJubkNa0Cq3eXpZCx2CNi\n+Ih1Or853pfod40GVLkWJZaMoqlLm4RiK2wwZmwpyiDn71CnNDbN6DYY5VFYIdP0\nJJ2Gh9Z8UB1tNtUsLA8QrGycH282R7HlCZi8zh8hFpKiO27dm3tp2nG3A840I1+n\nAJz28XJMpqgFtKUvwlVGZM1aeffDj5xdAnkDOp2Me+DJnHFl1gPIFNH4T8wkvfAU\nCWECZKDqj6g9ylzfSC67vRODyICvOertYQIeTeWKGGVCnqpyHpB9tB41rD2YdlaQ\n24BW7+wwgWPIAJ4BKIOOiAro1QGU8MLMcC0YW0O/+QKBgQDrRKt/dyqBmgRVGkO0\n2bW2sTIWeCdHdHJ+OeJno0JR2TDMwKN8IjqZStpUTfwWO3VJGdoclCrxNF188rqe\n3zLuqghPFIY3DWKk9m+J4KiYzXu0D58L3vRCwY3lANHrQaKEYGtIWH/jA8dgYRBr\nAcwXV869MSCZjvYO2CeV2Tpl/QKBgQDKaoD43LL4TRXF6XmYPOJ8XR/WYwlJEl8a\nTCQnmflxKwtoWfrzmyMoGxy+snqjgdNwoGKsn4yn2M7tdzT3ssYIEbr6wWOCPUaA\n/aD/WVjF5Y+BR0pG6/7C4PPxM9+1wMU7pbpOpPv6PUN+kfrUNp7fx/UERAXJHddj\n0h7Hj8dkrQKBgQDKM7zJ0pt/w+WRVv92Ad9BY03PLflkWlrEze8eb5xiSC6+65oW\n6DxA36qB5nyQhw2ohEWHZnj50a2/48YtIVve79gwT02DJ0fuy7bVY3bDzWdSPFLP\nmxGIBl5zwZ6peUG6UDwkc5uGewrydLntnh/QuDEBPaXtFIe5/mEXUxnz6QKBgE/T\nzOVYdKSEEhApUbD+YfvV5hZwnFrbCfKfEKsliEBfT3Jp+hRUnHrWpnF2hfMx4idK\nuV+G1LvlP0ZbeuIs+Ph5tZnq5smYTNPWMsZBgEcbj4rWiK6Lp79HZC093f4Z9i7d\n3yng2xcHTjT+cUN7/xAWFcUG5pk4UZemaEkfpO1JAoGBAJ2SCS8zqsGRgcnPEMMm\nOZp0DWKZ32ngbzy47cKoL1CKHqIvKUNLa7ba3YNtKhFJvPBufw15r8/AX6NUvG95\nF39pdvj9gyUaYHFg9HLPXEvJNIjT5LjXrxBfTZYnnWa7FUTEiFRZIfocDEyv/ytd\nR7zpb1PqR/3fnZnjr2gdB6gz\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing@zippy-chain-345512.iam.gserviceaccount.com",
+  "client_id": "108827397672713124538",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing%40zippy-chain-345512.iam.gserviceaccount.com"
+}
