@@ -1,5 +1,5 @@
 # ETL-Batch-Processing-To-BI-Tools
-Simple ETL Batch Processing using python until BI
+Simple ETL Batch Processing using python until data visualization with BI
 
 # Technology
 
